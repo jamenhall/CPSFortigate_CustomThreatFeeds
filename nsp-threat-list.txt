@@ -1,1 +1,52 @@
+# Malicious IP Addresses and Domains from Nebraska State Patrol
 
+# Russian APT Spear Phishing Infrastructure (IPs)
+37.139.52.41
+45.66.249.229
+45.86.230.141
+45.86.230.176
+45.86.230.228
+45.86.230.83
+45.143.167.124
+45.143.167.210
+45.143.167.31
+45.150.109.104
+45.150.109.65
+46.249.38.149
+62.106.66.143
+85.239.52.203
+85.239.52.86
+85.239.52.91
+
+# Russian APT Spear Phishing Infrastructure (Domains)
+dizizle.org
+yiyezi.net
+layoutdatatype.org
+getselfuri.org
+cloudbigdatadev.org
+restauracjadomek.com
+mapaji.com
+agentsbreakcursor.org
+inthewayback.com
+mapsgapisredir.com
+appstrinput.com
+respsegmentjson.com
+sendhostargs.com
+scrollselfsolution.org
+passongoing.com
+menustatusbar.org
+dataserviceprovide.net
+setproxytrue.net
+
+# Chinese SILVERFOX Obfuscation Network (IPs)
+96.35.119.175
+24.12.143.184
+
+# Qilin Ransomware Group (IPs)
+68.69.184.154
+195.85.23.86
+116.204.78.140
+
+# Likely China-Based APT Associated Domains
+Railtelindian.in
+techsupport-microsoft.co.in
