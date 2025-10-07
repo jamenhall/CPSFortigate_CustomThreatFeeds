@@ -7,7 +7,7 @@
 185.76.109.238
 190.104.232.50
 
-
+#
 # Malicious IP Addresses and Domains from Nebraska State Patrol - 10/03/2025
 
 # Russian APT Spear Phishing Infrastructure (IPs)
